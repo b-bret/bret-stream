@@ -5,7 +5,7 @@ Simple reverse proxy for pstream to bypass CORS, used by [movie-web](https://mov
 ---
 
 ### features:
- - Deployable on many platforms
+ - Deployable on many platforms (thanks to nitro)
  - header rewrites - read and write protected headers
  - bypass CORS - always allows browser to send requests through it
  - secure it with turnstile - prevent bots from using your proxy
